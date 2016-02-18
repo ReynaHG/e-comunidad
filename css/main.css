@@ -1,0 +1,161 @@
+//* e-comunidad */
+
+.logo  {
+	width: 50px;
+	height: 50px;
+}
+
+.w-200{
+	width: 200%;
+}
+
+
+nav ul li {
+ 	font-size: 15px;
+ 	color: #706E6E;
+ 	display: inline; 
+ 	padding-left:20px;
+}
+
+
+a:hover{
+	background-color: #5E8039;
+	color: white;
+}
+
+.espacio{
+	margin-left: 25%;	
+}
+
+.border-right{
+	border-right: 1px solid  #1E1B1B;
+	padding-right:20px;
+}
+	
+
+ ul{
+ margin-top: 30px;	
+ }
+
+ .color-texto{
+ 	color: #706E6E;
+ }
+
+
+.semillas{
+	background-image: url("../img/semilla.jpg");
+	height:350px;
+	background-size:100%;
+}
+
+.gris{
+height:150px;
+}
+
+/*sección semilla*/
+
+.encabezado{
+ margin-left: 16.666667%;
+ margin-top: 5%;	
+}
+
+
+/*Misión y visión*/
+
+.tini{
+	width: 120px;
+	height: 120px;
+}
+
+
+
+/*Metodología*/
+
+.metodo{
+	height:325px; 
+	background-image: url("../img/metodo.jpg");
+}
+
+.fondoverde{
+	height:325px; 
+	background-image: url("../img/fondo.jpg");
+}
+
+/*Proyectos*/
+
+.tamanio{
+	height: 400px;
+	width: 600px;
+}
+
+.margin-left{
+	margin-left: 16.666667%;	
+}
+
+/*equipo */
+.circulos{
+	width: 50%;
+	margin: 0;
+	padding: 0;
+	border-radius: 300px
+}
+
+.redes{
+	width: 10%;
+	margin:5% 1%;
+}
+
+.margin-leftI{
+	margin-left: 8.333333%;
+}
+
+/*Blog*/
+
+.fondogris{
+	height:450px; 
+	background-image: url("../img/fondo2.jpg");
+}
+
+.pt-18{
+	padding-top: 18%;
+}
+
+.boton-sliderI{
+ 	margin-left: 40%;
+}
+
+.w-50{
+ 	width: 40%;
+}
+
+
+/*redes sociales*/
+
+.fondo-gris{
+	background-color: 	#808080;
+}
+
+table, th, tr {
+	border: 1px solid white;
+	border-spacing: 0;
+	text-align: left;
+	width: 800px;
+	height: 200px
+	}
+
+tr p{
+	margin-left: 5%
+}
+
+
+.redes-sociales{
+	width: 20%;
+	margin: 50% 0 0 50%;
+}
+
+/*Efecto imagenes en página*/
+
+span div img:hover{ /*Opaca las imagenes al pasar el cursor sobre ellas. Sólo elementos seleccionados por SPAN*/
+	opacity: .5;
+}             
+
